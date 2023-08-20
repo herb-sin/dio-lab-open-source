@@ -12,9 +12,8 @@
             </p>
         </main>
 
-        <section id="contatos">
+        
             <h2>Contatos</h2>
-            <p> <b>E-mail</b>: afilaxy@gmail.com<br>
+            <p> <b>E-mail</b>: afilaxy@gmail.com <br>
                 <b>LinkedIn</b>: /in/herbert-jung/
             </p>
-        </section>
